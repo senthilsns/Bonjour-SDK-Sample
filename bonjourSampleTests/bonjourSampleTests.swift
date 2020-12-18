@@ -3,7 +3,7 @@
 //  bonjourSampleTests
 //
 //  Created by Senthil Kumar2 on 26/11/20.
-//  Copyright © 2020 Mavenir. All rights reserved.
+//  Copyright © 2020 Personal. All rights reserved.
 //
 
 import XCTest
